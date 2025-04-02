@@ -1,7 +1,7 @@
 import React from "react";
-import { Wishlist } from "../commons/Wishlist";
-import { AccountIcon } from "../commons/AccountIcon";
-import { CartIcon } from "../commons/CartIcon";
+import { Wishlist } from "../common/Wishlist";
+import { AccountIcon } from "../common/AccountIcon";
+import { CartIcon } from "../common/CartIcon";
 
 const Navbar = () => {
     return (
